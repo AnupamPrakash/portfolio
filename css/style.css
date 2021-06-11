@@ -751,7 +751,7 @@ a:focus {
 }
 
 .service .service-item:hover {
-    box-shadow: inset 800px 0 0 0 #EF233C;
+    box-shadow: inset 800px 0 0 0 #333333;
 }
 
 .service .service-icon {
@@ -1018,7 +1018,7 @@ a:focus {
 }
 
 .price .price-item.featured-item .price-header {
-    color: #EF233C;
+    color: #333333;
 }
 
 .price .price-title h2 {
@@ -1048,7 +1048,7 @@ a:focus {
 }
 
 .price .price-item.featured-item h2 {
-    color: #EF233C;
+    color: #333333;
 }
 
 .price .price-body {
@@ -1084,15 +1084,15 @@ a:focus {
 
 .price .price-item.featured-item .price-action .btn {
     color: #ffffff;
-    background: #EF233C;
-    box-shadow: inset 0 0 0 50px #EF233C;
+    background: #333333;
+    box-shadow: inset 0 0 0 50px #333333;
 }
 
 .price .price-item.featured-item .price-action .btn:hover {
-    color: #EF233C;
+    color: #333333;
     background: transparent;
-    box-shadow: inset 0 0 0 0 #EF233C;
-    border-color: #EF233C;
+    box-shadow: inset 0 0 0 0 #333333;
+    border-color: #333333;
 }
 
 
@@ -1406,6 +1406,7 @@ a:focus {
 .blog .blog-item {
     position: relative;
     margin-bottom: 30px;
+    color: whitesmoke;
 }
 
 .blog .blog-img {
